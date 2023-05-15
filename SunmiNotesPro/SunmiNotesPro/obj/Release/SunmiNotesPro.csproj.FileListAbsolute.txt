@@ -1,0 +1,9 @@
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\bin\Release\SunmiNotesPro.exe
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\bin\Release\SunmiNotesPro.pdb
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.csproj.AssemblyReference.cache
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.SunmiNotesPro.resources
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.Properties.Resources.resources
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.csproj.GenerateResource.cache
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.csproj.CoreCompileInputs.cache
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.exe
+C:\Users\inlan\Desktop\SunmiNotesPro\SunmiNotesPro\obj\Release\SunmiNotesPro.pdb
